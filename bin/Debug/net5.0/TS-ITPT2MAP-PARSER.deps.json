@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TS-ITPT2MAP-PARSER/1.0.0": {
+        "runtime": {
+          "TS-ITPT2MAP-PARSER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TS-ITPT2MAP-PARSER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

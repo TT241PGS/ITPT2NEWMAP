@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TS-ITPT2MAP-PARSER", "TS-ITPT2MAP-PARSER.csproj", "{5334B5F0-A7E6-4C5F-A25A-1C8C9F3A5880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5334B5F0-A7E6-4C5F-A25A-1C8C9F3A5880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5334B5F0-A7E6-4C5F-A25A-1C8C9F3A5880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5334B5F0-A7E6-4C5F-A25A-1C8C9F3A5880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5334B5F0-A7E6-4C5F-A25A-1C8C9F3A5880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6990C19-5626-4930-8D26-7DC10F4BDF90}
+	EndGlobalSection
+EndGlobal
